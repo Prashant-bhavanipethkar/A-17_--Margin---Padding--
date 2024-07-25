@@ -1,0 +1,43 @@
+.box{
+    background-color: bisque;
+    border: solid 2px #ff8533;  
+    border-radius: 20px;
+    display: block;
+    height: 290px;
+    width: 220px;
+    margin-bottom: 30px;
+   }
+
+   .img{
+       height: 140px;
+       border-radius: 20px;
+       display: block;
+       margin: 10px auto;
+       margin-bottom: 10px;
+   }
+
+   .btn{
+       color: #4d1f00;
+       background-color: #ffb380;
+       border-radius: 10px 50px;
+       border: solid 1.5px #ff6600;
+       padding: 10px 20px;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       display: block;
+       margin: 10px auto;
+       margin-bottom: 20px;    
+   }
+
+   .price{
+       color: black;
+       display: block;
+       margin: auto 65px;
+   }
+
+   .heading{
+       color: #ff6600;
+       display: block;
+       margin: 7px 80px;
+       font-family: cursive;
+       
+   }
